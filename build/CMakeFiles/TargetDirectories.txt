@@ -1,0 +1,3 @@
+/mnt/d/vs_proj/muduoHTTP/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/muduoHTTP/build/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/muduoHTTP/build/CMakeFiles/muduohttp.dir
